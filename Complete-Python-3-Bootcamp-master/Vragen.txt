@@ -1,0 +1,11 @@
+- if __name__ == __main__:   nog niet helemaal duidelijk
+
+- wat betekent O(n) en O(n^2) en O(log (n)) enzovoort ook alweer? 
+
+
+
+-donderdag 16.30
+
+-woensdag 12 januari 13:30 (45 mins)
+
+
